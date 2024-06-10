@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+//    "pages/ClichPage",
+//    "pages/LoginPage",
+//    "pages/MinePage",
+//    "pages/PracticPage",
+    "pages/ClicreHosyryPage"
+  ]
+}
